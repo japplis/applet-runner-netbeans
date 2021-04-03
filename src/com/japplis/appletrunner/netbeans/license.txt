@@ -1,0 +1,50 @@
+-- Common part
+It is forbidden to copy or modify Applet Runner. 
+Distribution is only authorized from https://www.japplis.com/applet-runner/ or 
+from the official plug-ins servers of NetBeans, Eclipse and IntelliJ.
+See below for more details.
+
+THIS SOFTWARE IS PROVIDED "AS IS" AND WITHOUT WARRANTIES WHETHER EXPRESSED 
+OR IMPLIED. THE AUTHOR SHALL NOT BE LIABLE FOR ANY DAMAGE RESULTING OF THE
+USE OF APPLET RUNNER.
+You are responsible for only using URLs containing Applets 
+that you know will not damage you or your computer in any kind.
+    
+It is prohibited to decompile the code.
+
+For redistribution inside your company or modifications, 
+visit https://www.japplis.com/applet-runner/ or contact info@japplis.com
+
+-- NetBeans plugin
+Applet Runner NetBeans plugin is free provided that 
+it is downloaded from NetBeans IDE plugins system 
+or from the http://plugins.netbeans.org/ website 
+or from https://netbeans.apache.org website
+or from https://www.japplis.com/applet-runner/ website.
+
+You may NOT distribute or reproduce copies of Applet Runner NetBeans plugin 
+in any medium with or without modifications.
+
+If you want to redistribute Applet Runner module inside a NetBeans RPC application,
+please contact info@japplis.com
+
+-- Eclipse plugin
+Applet Runner Eclipse plugin is free provided that 
+it is downloaded from Eclipse IDE plugin system using the Eclipse Marketplace (MP) 
+or from the https://marketplace.eclipse.org/ website
+or from https://www.japplis.com/applet-runner/ website.
+
+You may NOT distribute or reproduce copies of Applet Runner Eclipse plugin 
+in any medium with or without modifications.
+
+If you want to redistribute Applet Runner module inside a Eclipse RPC application,
+please contact info@japplis.com
+
+-- IntelliJ plugin. Supported for IntelliJ Platform Based Products such as IntelliJ IDEA, Android Studio and PyCharm.
+Applet Runner IntelliJ plugin is free provided that 
+it is downloaded from IntelliJ Platform Based Product plugin system with the default IntelliJ plugin repository 
+or from the https://plugins.jetbrains.com/ website
+or from https://www.japplis.com/applet-runner/ website.
+
+You may NOT distribute or reproduce copies of Applet Runner IntelliJ plugin 
+in any medium with or without modifications.
